@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="AppIcon.png" alt="App Icon" width="200" height="200">
+  <img src="AppIcon.png" alt="Images/App Icon" width="200" height="200">
   <h1 style="margin-left: 12px;">This is a title</h1>
 </div>
 
@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td>
-      <img src="trainingload1.png" alt="Feature Image 1" width="200">
+      <img src="trainingload1.png" alt="Images/Feature Image 1" width="200">
     </td>
     <td style="vertical-align: middle;">
       <h3>Training Load</h3>
