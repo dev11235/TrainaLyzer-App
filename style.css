@@ -1,0 +1,13 @@
+.feature {
+  display: flex;
+  margin: 20px 0;
+}
+
+.feature-image {
+  flex: 40%;
+  padding: 0 20px;
+}
+
+.feature-text {
+  flex: 60%;
+}
