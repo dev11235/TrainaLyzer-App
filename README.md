@@ -1,6 +1,6 @@
-# This is a title
+<img src="AppIcon.png" alt="App Icon" width="200" height="200"> # This is a title
 
-<img src="AppIcon.png" alt="App Icon" width="200" height="200">
+
 
 
 
