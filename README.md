@@ -8,11 +8,11 @@
 
 <div class="feature">
   <div class="feature-image">
-    ![Feature Image 1](feature1.png)
+    ![Feature Image 1](trainingload1.png)
   </div>
   <div class="feature-text">
-    <h3>Feature 1 Title</h3>
-    <p>Feature 1 description goes here...</p>
+    <h3>Training Load</h3>
+    <p>Monitor your training load induced by cardio or strength training.</p>
   </div>
 </div>
 
