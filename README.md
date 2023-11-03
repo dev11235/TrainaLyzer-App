@@ -1,6 +1,8 @@
 # This is a title
 
-![App Icon](AppIcon.png)
+<img src="AppIcon.png" alt="App Icon" width="200" height="200">
+
+A description here about the workout app for iOS. Compatible with the Apple Watch. 
 
 <div style="display: flex;">
   <div style="flex: 1; padding: 10px;">
