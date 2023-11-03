@@ -1,6 +1,7 @@
-<img src="AppIcon.png" alt="App Icon" width="200" height="200"> # This is a title
-
-
+<div style="display: flex; align-items: center;">
+  <img src="AppIcon.png" alt="App Icon" width="200" height="200">
+  <h1 style="margin-left: 12px;">This is a title</h1>
+</div>
 
 
 
