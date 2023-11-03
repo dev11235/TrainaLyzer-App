@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td>
-      <img src="trainingload1.png" alt="Feature Image 1" width="100">
+      <img src="trainingload1.png" alt="Feature Image 1" width="200">
     </td>
     <td>
       <h3>Training Load</h3>
