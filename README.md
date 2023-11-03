@@ -2,15 +2,28 @@
 
 <img src="AppIcon.png" alt="App Icon" width="200" height="200">
 
-A description here about the workout app for iOS. Compatible with the Apple Watch. 
 
-<div style="display: flex;">
-  <div style="flex: 1; padding: 10px;">
-    <!-- Left column content -->
-    This is the left column.
+
+## Features
+
+<div class="feature">
+  <div class="feature-image">
+    ![Feature Image 1](feature1.png)
   </div>
-  <div style="flex: 1; padding: 10px;">
-    <!-- Right column content -->
-    This is the right column.
+  <div class="feature-text">
+    <h3>Feature 1 Title</h3>
+    <p>Feature 1 description goes here...</p>
   </div>
 </div>
+
+<div class="feature">
+  <div class="feature-image">
+    ![Feature Image 2](feature2.png)
+  </div>
+  <div class="feature-text">
+    <h3>Feature 2 Title</h3>
+    <p>Feature 2 description goes here...</p>
+  </div>
+}
+
+<!-- Add more feature sections as needed -->
