@@ -1,4 +1,6 @@
-This is the main content
+# This is a title
+
+![App Icon](AppIcon.png)
 
 <div style="display: flex;">
   <div style="flex: 1; padding: 10px;">
