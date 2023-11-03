@@ -9,7 +9,7 @@
 
 <div class="feature">
   <div class="feature-image">
-    <img src="trainingload1.png" alt="Feature Image 1">
+    <img src="trainingload1.png" alt="Feature Image 1" width="200" height="200">
   </div>
   <div class="feature-text">
     <h3>Training Load</h3>
