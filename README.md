@@ -7,14 +7,16 @@
 
 ## Features
 
-<div class="feature">
-  <div class="feature-image">
-    <img src="trainingload1.png" alt="Feature Image 1" width="100">
-  </div>
-  <div class="feature-text">
-    <h3>Training Load</h3>
-    <p>Monitor your training load induced by cardio or strength training.</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="trainingload1.png" alt="Feature Image 1" width="100">
+    </td>
+    <td>
+      <h3>Training Load</h3>
+      <p>Monitor your training load induced by cardio or strength training.</p>
+    </td>
+  </tr>
+</table>
 
 <!-- Add more feature sections as needed -->
