@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
   <img src="AppIcon.png" alt="Images/App Icon" width="200" height="200">
-  <h1 style="margin-left: 12px;">This is a title</h1>
+  <h1 style="margin-left: 12px;">Welcome!</h1>
 </div>
 
 
@@ -22,3 +22,7 @@ You can view your training load (total time, distance, number of workouts, time 
 TrainaLyzer also provides a calendar-style overview of your past months training.
 
 <!-- Add more feature sections as needed -->
+
+
+# Contact and Support
+To get in touch, don't hesitate to reach out to trainalyzerapp@gmail.com. 
