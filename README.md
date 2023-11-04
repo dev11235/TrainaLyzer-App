@@ -7,16 +7,6 @@
 
 ## Features
 
-<table>
-  <tr>
-    <td>
-      <img src="trainingload1.png" alt="Images/Feature Image 1" width="200">
-    </td>
-    <td style="vertical-align: middle;">
-      <h3>Training Load</h3>
-      <p>Monitor your training load induced by cardio or strength training.</p>
-    </td>
-  </tr>
-</table>
+### Training load
 
 <!-- Add more feature sections as needed -->
